@@ -1,5 +1,6 @@
 colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-    next_color = "violet"
-   updated_array = using_push(colors_in_the_rainbow, next_color)
+   next_color = "violet"
+   answer = colors_in_the_rainbow.push(next_color)	
+    expect(answer.last).to eq(next_color)
    
-   p colors_in_the_rainbow
+ 
