@@ -1,3 +1,2 @@
-artists = ["Hozier", "Ariana Grande", "Usher"]
-next_artist = "Beyonce"
-artists.push(next_artist)
+colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
+    next_color = "violet"
