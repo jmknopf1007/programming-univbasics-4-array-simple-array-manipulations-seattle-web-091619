@@ -1,1 +1,1 @@
-artists.push(next_artist)
+colors_in_the_rainbow.push(next_color)
